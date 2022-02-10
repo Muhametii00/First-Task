@@ -70,4 +70,13 @@ p {
     width: 665px;
   }
 }
+@media(max-width:600px){
+  .one {
+    width: 300px;
+  }
+  .box {
+    height: 2000px;
+    width: 500px;
+  }
+}
 
